@@ -1,0 +1,17 @@
+{
+  "name": "ostro-hub",
+  "version": "1.0.0",
+  "description": "landing page for ostro hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chibuzo",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
